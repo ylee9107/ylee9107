@@ -1,9 +1,9 @@
 ### Welcome! Here is where you can find what I am working on!
 
 - 👋 Hi, I’m Lee.  @ylee9107
-- 👀 I’m currently working on ... Cool projects for a Utility Company.
-- 🌱 I’m currently learning ... Interpretable Machine Learning and Web development
-- 💞️ I’m looking to collaborate on ... Machine Learning or Computer Vision projects
+- 👀 I’m currently working on ... Cool projects for a AI Company.
+- 🌱 I’m currently learning ... Agentic AI and Chem. Eng. ML for processing.
+- 💞️ I’m looking to collaborate on ... AI projects and Classic Machine Learning for Industry
 - 📫 How to reach me ... ylee9106@gmail.com
 
 <!---
